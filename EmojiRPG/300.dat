@@ -1,0 +1,1024 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="HandheldFriendly" content="true"><meta name="viewport" content="width=device-width; initial-scale=0.666667; user-scalable=0"><meta name="viewport" content="width=device-width"><title></title><style>
+          @media (max-width: 512px) { .mercado-container { width: 100% !important; } }
+        </style><style>
+          .full-width-button, .full-width-button table { display: none; } @media (max-width: 512px) { .inline-button,
+          .inline-button table { display: none !important; } .full-width-button, .full-width-button table { display:
+          table !important; } }
+        </style><!--[if mso]><style type="text/css"> </style><![endif]--><!--[if IE]><style type="text/css"> </style><![endif]--><style>
+@media (min-width: 576px) {
+  .container {
+    max-width: 576px;
+  }
+
+  .\!container {
+    max-width: 576px !important;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+
+  .\!container {
+    max-width: 768px !important;
+  }
+}
+@media (min-width: 790px) {
+  .container {
+    max-width: 790px;
+  }
+
+  .\!container {
+    max-width: 790px !important;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    max-width: 992px;
+  }
+
+  .\!container {
+    max-width: 992px !important;
+  }
+}
+@media (min-width: 1128px) {
+  .container {
+    max-width: 1128px;
+  }
+
+  .\!container {
+    max-width: 1128px !important;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1200px;
+  }
+
+  .\!container {
+    max-width: 1200px !important;
+  }
+}
+@media (min-width: 1440px) {
+  .container {
+    max-width: 1440px;
+  }
+
+  .\!container {
+    max-width: 1440px !important;
+  }
+}
+@media (min-width: 1680px) {
+  .container {
+    max-width: 1680px;
+  }
+
+  .\!container {
+    max-width: 1680px !important;
+  }
+}
+@media (min-width: 1920px) {
+  .container {
+    max-width: 1920px;
+  }
+
+  .\!container {
+    max-width: 1920px !important;
+  }
+}
+@media (min-width: 992px) {
+  .base-detail-page__header .nav {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1128px;
+  }
+}
+@media (max-width: 767px) {
+  .embedded-social-share .modal__outlet {
+    flex-direction: row;
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .nav .search-bar {
+    order: 4;
+  }
+}
+@media (max-width: 767px) {
+  .nav .sign-in-card {
+    display: none;
+  }
+}
+@media (max-width: 767px) {
+  .nav--minified-mobile .nav__cta-container > *:not(.nav__link-person) {
+    display: none;
+  }
+}
+@media screen and (max-width: 767px) {
+  .nav .search-bar--minified-mobile {
+    margin-bottom: 0px;
+    height: 100%;
+    flex-grow: 1;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    order: initial;
+    width: initial;
+  }
+
+  .nav .search-bar--minified-mobile .search-bar__placeholder {
+    margin-top: 0px;
+  }
+}
+@media (max-width: 767px) {
+  .tw-link-column-item {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+@media (min-width: 992px) {
+  .tw-link-column-item {
+    margin-bottom: 8px;
+  }
+
+  .tw-linkster .tw-link-column-item {
+    margin-bottom: 0px;
+  }
+}
+@media (max-width: 767px) {
+  .member-nav-menu .collapsible-dropdown__button {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 16px;
+  }
+}
+@media (max-width: 767px) {
+  .member-nav-menu .collapsible-dropdown__list {
+    right: 0px;
+    max-height: calc(100vh - 52px);
+    overflow-y: auto;
+  }
+}
+@media (max-width: 767px) {
+  .recent-searches.recent-searches--show {
+    position: fixed;
+    top: 168px;
+    left: 0px;
+    width: 100vw;
+    min-width: 100vw;
+    border-width: 0;
+  }
+}
+@media (max-width: 767px) {
+  .search-bar .dismissable-input {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0.75);
+    color: rgba(0, 0, 0, 0.9);
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+  }
+
+  .search-bar .dismissable-input:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+    border-color: rgba(0, 0, 0, 0.9);
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    border-width: 1px;
+  }
+
+  .search-bar .dismissable-input:active {
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0.9);
+    cursor: pointer;
+    border-width: 1px;
+  }
+
+  .search-bar .dismissable-input:disabled {
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.3);
+    cursor: not-allowed;
+    border-width: 1px;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .search-bar .dismissable-input:disabled:hover {
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.3);
+    cursor: not-allowed;
+    border-width: 1px;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .search-bar .dismissable-input:disabled:focus {
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.3);
+    cursor: not-allowed;
+    border-width: 1px;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .search-bar .dismissable-input:disabled:active {
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.3);
+    cursor: not-allowed;
+    border-width: 1px;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .input-error .search-bar .dismissable-input {
+    background-color: rgba(0, 0, 0, 0);
+    border-color: #cf0007;
+    color: rgba(0, 0, 0, 0.9);
+    border-radius: 4px;
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+  }
+
+  .input-error .search-bar .dismissable-input:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+    border-color: #8a0005;
+    box-shadow: 0 0 0 1px #8a0005;
+    cursor: pointer;
+    border-width: 1px;
+  }
+
+  .input-error .search-bar .dismissable-input:active {
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: #8a0005;
+    cursor: pointer;
+    border-width: 1px;
+  }
+
+  .input-error .search-bar .dismissable-input:disabled {
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.3);
+    cursor: not-allowed;
+    border-width: 1px;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .input-error .search-bar .dismissable-input:disabled:hover {
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.3);
+    cursor: not-allowed;
+    border-width: 1px;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .input-error .search-bar .dismissable-input:disabled:focus {
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.3);
+    cursor: not-allowed;
+    border-width: 1px;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .input-error .search-bar .dismissable-input:disabled:active {
+    background-color: rgba(0, 0, 0, 0.08);
+    border-color: rgba(0, 0, 0, 0);
+    color: rgba(0, 0, 0, 0.3);
+    cursor: not-allowed;
+    border-width: 1px;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .base-search-bar .input-error .search-bar .dismissable-input.typeahead-input {
+    border-style: solid;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .base-search-bar .input-error .search-bar .dismissable-input.typeahead-input:active {
+    border-style: solid;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .base-search-bar .input-error .search-bar .dismissable-input.typeahead-input:focus-within {
+    border-style: solid;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .search-bar .dismissable-input {
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .search-bar .dismissable-input:hover {
+    border-right-color: rgba(0, 0, 0, 0.08);
+  }
+}
+@media (min-width: 992px) {
+  .search-bar .dismissable-input {
+    width: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000;
+  }
+
+  .search-bar .dismissable-input:hover {
+    border-right-color: rgba(0, 0, 0, 0.08);
+  }
+}
+@media (max-width: 767px) {
+  .search-bar:not(.isExpanded) .base-search-bar__form {
+    display: none;
+  }
+}
+@media screen and (max-width: 767px) {
+  @media (max-width: 767px) {
+    .search-bar.isExpanded .search-bar__placeholder {
+      display: none;
+    }
+
+    .search-bar.isExpanded .base-search-bar__form {
+      display: flex;
+    }
+
+    position: fixed;
+        top: 0px;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+        z-index: 1000;
+        margin-bottom: 0px;
+        height: 100%;
+        background-color: #ffffff;
+    .search-bar.isExpanded .switcher-tabs {
+      display: inherit;
+    }
+
+  }
+}
+@media screen and (max-width: 767px) {
+  .stuck .search-bar {
+    transition: height 0.4s, margin-bottom 0.4s ease-in-out;
+    margin-bottom: 0px;
+    height: 0px;
+  }
+
+  .stuck .search-bar--minified-mobile .search-bar__placeholder {
+    max-height: initial;
+    pointer-events: initial;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.6);
+  }
+}
+@media (max-width: 767px) {
+  .tabs__list {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+@media (max-width: 767px) {
+  .typeahead-input__dropdown.typeahead-input__dropdown--show {
+    position: fixed;
+    top: 158px;
+    left: 0px;
+    width: 100vw;
+    min-width: 100vw;
+  }
+}
+@media (max-width: 767px) {
+  .base-search-bar .dismissable-input {
+    max-height: 40px;
+  }
+}
+@media (max-width: 767px) {
+  .base-main-card__media ~ .base-main-card__info {
+    margin-left: 0px;
+    margin-top: 16px;
+  }
+}
+@media (min-width: 992px) {
+  .filter .collapsible-dropdown__list {
+    max-height: 400px;
+  }
+}
+@media (forced-colors: active) {
+  .filter-button--selected {
+    border-width: 4px;
+  }
+}
+@media (max-width: 767px) {
+  .base-card .duration {
+    font-size: 12px;
+    font-weight: 400;
+  }
+}
+@media (max-width: 767px) {
+  .hide-on-mobile {
+    display: none;
+  }
+}
+@media (max-width: 767px) {
+  .social-action-bar__button {
+    flex-direction: row;
+    font-size: 14px;
+  }
+}
+@media (max-width: 767px) {
+  .social-action-bar__icon--svg {
+    margin: 0px;
+    height: 24px;
+    width: 24px;
+    padding-right: 4px;
+  }
+}
+@media (max-width: 767px) {
+  .babybear\:invisible {
+    visibility: hidden;
+  }
+
+  .babybear\:static {
+    position: static;
+  }
+
+  .babybear\:right-4 {
+    right: 32px;
+  }
+
+  .babybear\:left-0 {
+    left: 0px;
+  }
+
+  .babybear\:-top-1 {
+    top: -8px;
+  }
+
+  .babybear\:z-0 {
+    z-index: 0;
+  }
+
+  .babybear\:my-2 {
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+
+  .babybear\:mx-0 {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .babybear\:mx-mobile-container-padding {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  .babybear\:ml-0 {
+    margin-left: 0px;
+  }
+
+  .babybear\:mb-1 {
+    margin-bottom: 8px;
+  }
+
+  .babybear\:mr-0 {
+    margin-right: 0px;
+  }
+
+  .babybear\:ml-\[-9999px\] {
+    margin-left: -9999px;
+  }
+
+  .babybear\:mb-1\.5 {
+    margin-bottom: 12px;
+  }
+
+  .babybear\:ml-1 {
+    margin-left: 8px;
+  }
+
+  .babybear\:flex {
+    display: flex;
+  }
+
+  .babybear\:hidden {
+    display: none;
+  }
+
+  .babybear\:h-\[360px\] {
+    height: 360px;
+  }
+
+  .babybear\:h-\[72px\] {
+    height: 72px;
+  }
+
+  .babybear\:h-\[27px\] {
+    height: 27px;
+  }
+
+  .babybear\:h-\[1px\] {
+    height: 1px;
+  }
+
+  .babybear\:h-\[48px\] {
+    height: 48px;
+  }
+
+  .babybear\:h-auto {
+    height: auto;
+  }
+
+  .babybear\:h-\[180px\] {
+    height: 180px;
+  }
+
+  .babybear\:max-h-\[225px\] {
+    max-height: 225px;
+  }
+
+  .babybear\:max-h-\[400px\] {
+    max-height: 400px;
+  }
+
+  .babybear\:max-h-\[250px\] {
+    max-height: 250px;
+  }
+
+  .babybear\:min-h-\[134px\] {
+    min-height: 134px;
+  }
+
+  .babybear\:w-\[360px\] {
+    width: 360px;
+  }
+
+  .babybear\:w-full {
+    width: 100%;
+  }
+
+  .babybear\:w-6 {
+    width: 48px;
+  }
+
+  .babybear\:w-\[27px\] {
+    width: 27px;
+  }
+
+  .babybear\:w-\[1px\] {
+    width: 1px;
+  }
+
+  .babybear\:w-\[100vw\] {
+    width: 100vw;
+  }
+
+  .babybear\:w-\[calc\(100\%-68px\)\] {
+    width: calc(100% - 68px);
+  }
+
+  .babybear\:min-w-full {
+    min-width: 100%;
+  }
+
+  .babybear\:max-w-\[790px\] {
+    max-width: 790px;
+  }
+
+  .babybear\:flex-none {
+    flex: none;
+  }
+
+  .babybear\:flex-auto {
+    flex: 1 1 auto;
+  }
+
+  .babybear\:flex-1 {
+    flex: 1 1 0%;
+  }
+
+  .babybear\:basis-1\/2 {
+    flex-basis: 50%;
+  }
+
+  .babybear\:container-lined {
+    border-radius: 8px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.08);
+    background-color: #ffffff;
+  }
+
+  .babybear\:flex-row {
+    flex-direction: row;
+  }
+
+  .babybear\:flex-col {
+    flex-direction: column;
+  }
+
+  .babybear\:flex-wrap {
+    flex-wrap: wrap;
+  }
+
+  .babybear\:items-start {
+    align-items: flex-start;
+  }
+
+  .babybear\:items-center {
+    align-items: center;
+  }
+
+  .babybear\:justify-around {
+    justify-content: space-around;
+  }
+
+  .babybear\:self-center {
+    align-self: center;
+  }
+
+  .babybear\:rounded-\[0px\] {
+    border-radius: 0px;
+  }
+
+  .babybear\:border-b-1 {
+    border-bottom-width: 1px;
+  }
+
+  .babybear\:border-solid {
+    border-style: solid;
+  }
+
+  .babybear\:border-color-border-low-emphasis {
+    border-color: rgba(0, 0, 0, 0.3);
+  }
+
+  .babybear\:bg-color-transparent {
+    background-color: rgba(0, 0, 0, 0);
+  }
+
+  .babybear\:bg-color-brand {
+    background-color: #0a66c2;
+  }
+
+  .babybear\:p-2 {
+    padding: 16px;
+  }
+
+  .babybear\:p-0 {
+    padding: 0px;
+  }
+
+  .babybear\:px-2 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .babybear\:px-\[4px\] {
+    padding-left: 4px;
+    padding-right: 4px;
+  }
+
+  .babybear\:px-mobile-container-padding {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .babybear\:py-3 {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+
+  .babybear\:py-1\.5 {
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+
+  .babybear\:py-1 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  .babybear\:pb-2 {
+    padding-bottom: 16px;
+  }
+
+  .babybear\:pr-0 {
+    padding-right: 0px;
+  }
+
+  .babybear\:leading-\[150px\] {
+    line-height: 150px;
+  }
+
+  .babybear\:last\:border-b-0:last-child {
+    border-bottom-width: 0;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .mamabear\:absolute {
+    position: absolute;
+  }
+
+  .mamabear\:right-4 {
+    right: 32px;
+  }
+
+  .mamabear\:top-\[58px\] {
+    top: 58px;
+  }
+
+  .mamabear\:-top-1 {
+    top: -8px;
+  }
+
+  .mamabear\:flex {
+    display: flex;
+  }
+
+  .mamabear\:hidden {
+    display: none;
+  }
+
+  .mamabear\:h-\[100\%\] {
+    height: 100%;
+  }
+
+  .mamabear\:w-\[744px\] {
+    width: 744px;
+  }
+
+  .mamabear\:w-full {
+    width: 100%;
+  }
+
+  .mamabear\:w-\[calc\(100\%-97px\)\] {
+    width: calc(100% - 97px);
+  }
+
+  .mamabear\:min-w-0 {
+    min-width: 0px;
+  }
+
+  .mamabear\:max-w-\[790px\] {
+    max-width: 790px;
+  }
+
+  .mamabear\:container-raised {
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+  }
+
+  .mamabear\:flex-row {
+    flex-direction: row;
+  }
+
+  .mamabear\:flex-col {
+    flex-direction: column;
+  }
+
+  .mamabear\:items-start {
+    align-items: flex-start;
+  }
+
+  .mamabear\:items-center {
+    align-items: center;
+  }
+
+  .mamabear\:justify-start {
+    justify-content: flex-start;
+  }
+
+  .mamabear\:self-center {
+    align-self: center;
+  }
+
+  .mamabear\:tab-vertical.tab-sm,
+.mamabear\:tab-vertical .tab-md,
+.mamabear\:tab-vertical .tab-lg {
+    justify-content: flex-start;
+  }
+
+  .mamabear\:tab-vertical.tab-selected {
+    box-shadow: inset 4px 0 rgba(0, 0, 0, 0.9);
+  }
+
+  .mamabear\:rounded-tr-none {
+    border-top-right-radius: 0px;
+  }
+
+  .mamabear\:px-3 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  .mamabear\:px-mobile-container-padding {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .mamabear\:py-3 {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+
+  .mamabear\:px-2 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .mamabear\:pt-desktop-content-top-margin {
+    padding-top: 16px;
+  }
+}
+@media (min-width: 992px) {
+  .papabear\:absolute {
+    position: absolute;
+  }
+
+  .papabear\:top-\[58px\] {
+    top: 58px;
+  }
+
+  .papabear\:-top-1 {
+    top: -8px;
+  }
+
+  .papabear\:mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .papabear\:\!mx-2 {
+    margin-left: 16px !important;
+    margin-right: 16px !important;
+  }
+
+  .papabear\:mt-\[-100px\] {
+    margin-top: -100px;
+  }
+
+  .papabear\:mb-\[18px\] {
+    margin-bottom: 18px;
+  }
+
+  .papabear\:mt-0 {
+    margin-top: 0px;
+  }
+
+  .papabear\:mt-0\.5 {
+    margin-top: 4px;
+  }
+
+  .papabear\:mr-2 {
+    margin-right: 16px;
+  }
+
+  .papabear\:ml-column-gutter {
+    margin-left: 24px;
+  }
+
+  .papabear\:flex {
+    display: flex;
+  }
+
+  .papabear\:hidden {
+    display: none;
+  }
+
+  .papabear\:h-\[34px\] {
+    height: 34px;
+  }
+
+  .papabear\:h-\[100\%\] {
+    height: 100%;
+  }
+
+  .papabear\:min-h-\[96px\] {
+    min-height: 96px;
+  }
+
+  .papabear\:w-\[400px\] {
+    width: 400px;
+  }
+
+  .papabear\:w-content-max-w {
+    width: 1128px;
+  }
+
+  .papabear\:w-core-rail-width {
+    width: 790px;
+  }
+
+  .papabear\:w-right-rail-width {
+    width: calc(1128px - 24px - 790px);
+  }
+
+  .papabear\:w-auto {
+    width: auto;
+  }
+
+  .papabear\:w-\[1128px\] {
+    width: 1128px;
+  }
+
+  .papabear\:w-\[135px\] {
+    width: 135px;
+  }
+
+  .papabear\:w-\[calc\(100\%-97px\)\] {
+    width: calc(100% - 97px);
+  }
+
+  .papabear\:min-w-0 {
+    min-width: 0px;
+  }
+
+  .papabear\:container-raised {
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+  }
+
+  .papabear\:flex-col {
+    flex-direction: column;
+  }
+
+  .papabear\:flex-nowrap {
+    flex-wrap: nowrap;
+  }
+
+  .papabear\:items-start {
+    align-items: flex-start;
+  }
+
+  .papabear\:justify-start {
+    justify-content: flex-start;
+  }
+
+  .papabear\:justify-center {
+    justify-content: center;
+  }
+
+  .papabear\:self-start {
+    align-self: flex-start;
+  }
+
+  .papabear\:tab-vertical.tab-sm,
+.papabear\:tab-vertical .tab-md,
+.papabear\:tab-vertical .tab-lg {
+    justify-content: flex-start;
+  }
+
+  .papabear\:tab-vertical.tab-selected {
+    box-shadow: inset 4px 0 rgba(0, 0, 0, 0.9);
+  }
+
+  .papabear\:rounded-tr-none {
+    border-top-right-radius: 0px;
+  }
+
+  .papabear\:border-4 {
+    border-width: 4px;
+  }
+
+  .papabear\:p-details-container-padding {
+    padding: 24px;
+  }
+
+  .papabear\:p-0 {
+    padding: 0px;
+  }
+
+  .papabear\:py-2 {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
+  .papabear\:pt-desktop-content-top-margin {
+    padding-top: 16px;
+  }
+
+  .papabear\:text-xl {
+    font-size: 24px;
+  }
+}
+</style></head><body dir="ltr" class="font-sans bg-color-background-canvas w-full m-0 p-0 pt-1" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; margin: 0px; width: 100%; background-color: #f3f2f0; padding: 0px; padding-top: 8px; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><div class="h-0 opacity-0 text-transparent invisible overflow-hidden w-0 max-h-[0]" style="visibility: hidden; height: 0px; max-height: 0; width: 0px; overflow: hidden; opacity: 0; mso-hide: all;" data-email-preheader="true">Software Quality Assurance Engineer and other roles are available</div><div class="h-0 opacity-0 text-transparent invisible overflow-hidden w-0 max-h-[0]" style="visibility: hidden; height: 0px; max-height: 0; width: 0px; overflow: hidden; opacity: 0; mso-hide: all;">͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; </div><table class="font-sans mercado-container w-[512px] max-w-[512px] mx-auto my-0 p-0 bg-color-background-container" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="512" align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin-left: auto; margin-right: auto; margin-top: 0px; margin-bottom: 0px; width: 512px; max-width: 512px; background-color: #ffffff; padding: 0px; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="text-center p-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 24px; text-align: center;"><table class="font-sans min-w-full" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td align="left" valign="middle" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Ffeed%2F%3Flipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-header-0-home_glimmer%26trkEmail%3Deml-email_job_alert_digest_01-header-0-home_glimmer-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498764926%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=tzAUv5D3%2B9NQMDyFNWg5xMJlHzuwWWO7YEQuKzswNag%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/feed/?lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-header-0-home_glimmer&amp;trkEmail=eml-email_job_alert_digest_01-header-0-home_glimmer-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="k1Unm47sBPDBa3jl6Sn22B8GgOzhk5v3lp5YgN1kLqddDm8dtjmK2lpU5tn44nLNhWk6i6DqRXeeLXC31O1FWblItrSZCnF3xkEzDoOKaJFE/Hbvk1YmllQ+2go9wwIb1NIpOhqxt03l4SxoeX75rivZ5cHhDLT8uaPXhnXJb34=" target="_blank" class="w-[84px]" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; width: 84px;"><img class="block" alt="LinkedIn" src="https://www.linkedin.com/comm/dms/logo?badgeTheme=mercado&amp;csrfToken=csrf&amp;lipi=FNjgUOoeTACW%252FIkW1gagyA%253D%253D&amp;flockId=h9d9vt%257Elac0xsht%257E6e&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trkEmail=eml-email_job_alert_digest_01-null-0-comms%257Ebadging%257Edynamic%257Eglimmer-null-h9d9vt%257Elac0xsht%257E6e-null-null&amp;trk=eml-email_job_alert_digest_01-null-0-comms%257Ebadging%257Edynamic%257Eglimmer&amp;_sig=1T6q9kUwU6eWw1" data-test-header-dynamic-badging-img="" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block;"> </a></td><td valign="middle" align="right" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" data-test-header-profile="" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td align="right" valign="middle" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fid.linkedin.com%2Fcomm%2Fin%2Fjason-leonardo-4b562a251%3Flipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-header-0-profile_glimmer%26trkEmail%3Deml-email_job_alert_digest_01-header-0-profile_glimmer-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498764926%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=bLGl6HV71WA6mnzyZask4ztOQquL%2FVQqwbEJI79f9cU%3D&amp;reserved=0" originalsrc="https://id.linkedin.com/comm/in/jason-leonardo-4b562a251?lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-header-0-profile_glimmer&amp;trkEmail=eml-email_job_alert_digest_01-header-0-profile_glimmer-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="wSCEv9iVoQ3Ih4jD1YNiSV4mUIRtr4myEAsbFc0SYF1U/aSHVi5XNVlBKrvIXZZgMDw7muNq7oXBuxCXjlFkbfT/SA/a1fMg9CFGQP2O89gPVd+xhToNZcCG+eyQKhkSCNOL3ZLm+TsTZVtfGZcRvAtZ737LyZenV/TEACseN9w=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><span class="no-underline text-system-gray-90" style="color: #282828; text-decoration-line: none;">Jason Leonardo</span> </a></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td class="px-3 pb-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-left: 24px; padding-right: 24px; padding-bottom: 24px;"><div><table class="font-sans leading-regular" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; line-height: 1.25;"><tbody><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><h1 class="text-display-sm font-normal leading-regular" data-test-id="email-header" style="margin: 0; font-size: 24px; font-weight: 400; line-height: 1.25;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fsearch%3FgeoId%3D105898461%26f_TPR%3Da1668056025-%26savedSearchId%3D1730415851%26origin%3DJOB_ALERT_EMAIL%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-email~job~alert~digest-0-header%26trkEmail%3Deml-email_job_alert_digest_01-email~job~alert~digest-0-header-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=XBoE1puz4GlHr%2B2Drg68tb8UTrpQYSKsVcEDl%2BKGtuQ%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/search?geoId=105898461&amp;f_TPR=a1668056025-&amp;savedSearchId=1730415851&amp;origin=JOB_ALERT_EMAIL&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-email~job~alert~digest-0-header&amp;trkEmail=eml-email_job_alert_digest_01-email~job~alert~digest-0-header-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="Zn8wcKMe7RRy6jvslJOnGh4Lt1DPW0cI0XjWuixapnlrfjnodPSb4D/e5C3qVCSAB6gpxnbJRZRCLOCaidHIpIadIq4rrAUZwdhunKrfd9+MuQXyqFFdJXwKHdZgJqnysiaCLiyJ6VeedY2wTaryr+r1HGggb1OIffQNV+Nj3sU=" target="_blank" class="text-system-gray-90" style="cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; color: #282828;">Your job alert for <strong class="font-bold" style="font-weight: 600;">Software Engineer</strong> </a></h1></td></tr><tr><td class="pt-1" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 8px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><h2 class="text-md font-normal" data-test-id="email-subheader" style="margin: 0; font-size: 16px; font-weight: 400;">30+ new jobs in Tangerang match your preferences. </h2></td></tr></tbody></table></td></tr><tr><td class="pt-3" data-test-id="job-card" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-2 w-6" valign="top" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 48px; padding-right: 16px;" width="48"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3347079297%2F%3FtrackingId%3DDn%252Bh1ZYbRjIHutWA52qyFw%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-company_logo%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=4Zd8h8ZkUJ24VY%2FwDqA4NAXKlus0u8V5tlX9GXZw7uE%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3347079297/?trackingId=Dn%2Bh1ZYbRjIHutWA52qyFw%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-company_logo&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="EIk3uaCj4/fb610ezqJLVx28XYROsF7slnHCNLf/cg1OGhK1kuNlI+21BUD4Cra+8pI75T+tCPlcVsC3mYNc7ooGh0grh3I/u1MuO7w9ux8w0mhpLkaIEEk3aGyZCM+2w/WTe3jiGFQtuef5gg5oRp+z9I/bZrV4KmE/zFG5scA=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><img class="inline-block relative bg-color-entity-ghost-background w-6 h-6 rounded-[2px]" src="https://media-exp1.licdn.com/dms/image/D560BAQFdGTtPAS_WmQ/company-logo_100_100/0/1667370338799?e=2147483647&amp;v=beta&amp;t=vrvaUQvl_gGyVXaa1Jgf3Gbo9V3YoZtITUJtvoF6PN4" alt="HTC Global Services" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; display: inline-block; height: 48px; width: 48px; border-radius: 2px; background-color: #eae6df;" width="48" height="48"> </a></td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3347079297%2F%3FtrackingId%3DDn%252Bh1ZYbRjIHutWA52qyFw%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-job_posting%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=Y0ICNFcniZ9%2BE7E%2F6yfy7QdCRRrEXM4H00z7BRnNNAw%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3347079297/?trackingId=Dn%2Bh1ZYbRjIHutWA52qyFw%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-job_posting&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="d45hQHlbiS+c38ec58u+fS0WemDdoYuwgMVbTw5IZwV44xiMqD3E5YLPzutzuprGj1jfdwuzF2eUFqd9pHMUW9/SziXLakFmHrv2plT+lnfaL1EfggFRz5dvkWRChp1ItPfW1/nM7/dzxLwojvynPNJpZ4WpT+l8NufuUkLmDtY=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pb-0.25" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 2px;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3347079297%2F%3FtrackingId%3DDn%252Bh1ZYbRjIHutWA52qyFw%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=vfl0d%2FefB9B3rJKy%2BuGkXufjn1yXj0Qg%2Bs0rqnwn6SY%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3347079297/?trackingId=Dn%2Bh1ZYbRjIHutWA52qyFw%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-jobcard_body&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="oAbfhzcTT5FPGuo+8kn53+kNl4/eIPG9P7b8mD/tvxMdC/QKuo133xrGUZsfj920eNW1HS6iMw5sIHfx+LzzbOdUP7c3xj2SbczNPabzoEym8PEqPpJX88DTu+1ZW3i/r5lZp3wsF+Ra3q+0Mrj7BxJFVWNsBJmjoZjVqqHlmL0=" target="_blank" class="font-bold text-md leading-regular text-color-brand" style="cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; font-size: 16px; font-weight: 600; line-height: 1.25; color: #0a66c2;">Software Quality Assurance Engineer </a></td></tr><tr><td class="pb-0.5" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 4px;"><p class="text-system-gray-100 text-sm leading-[20px]" style="margin: 0; font-weight: 400; font-size: 14px; line-height: 20px; color: #1f1f1f;">HTC Global Services · Jakarta, Indonesia (Hybrid) </p></td></tr><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 0;" align="left"><!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;"><![endif]--><!--[if (gte mso 9)|(IE)]><tr> <td style="padding-top: 4px;"><![endif]--><div class="job-card-flavor__container" style="display: inline-block; padding-top: 4px; padding-right: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-1 w-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 24px; padding-right: 8px;" width="24"><img class="inline-block relative bg-color-entity-ghost-background w-3 h-3 !block" src="https://media-exp1.licdn.com/dms/image/C560BAQEFIZ8GzdwqwQ/company-logo_100_100/0/1589011860582?e=2147483647&amp;v=beta&amp;t=Sttuz7NrLC1SnJdkxkNLviVG70kqoafNHhmaWklxczM" alt="BINUS University" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; height: 24px; width: 24px; background-color: #eae6df; display: block !important;" width="24" height="24"> </td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p class="job-card-flavor__detail" style="margin: 0; font-weight: 400; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.25; color: #666666;">1 school alum </p></td></tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td> </tr><![endif]--><!--[if (gte mso 9)|(IE)]><tr> <td style="padding-top: 4px;"><![endif]--><div class="job-card-flavor__container" style="display: inline-block; padding-top: 4px; padding-right: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-1 w-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 24px; padding-right: 8px;" width="24"><img alt="Easy Apply" class="w-3 h-3 rounded-[2px] block" src="https://static-exp1.licdn.com/aero-v1/sc/h/1sk0fbe9amaiat5elvybbtxsm" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block; height: 24px; width: 24px; border-radius: 2px;" width="24" height="24"> </td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p class="job-card-flavor__detail" style="margin: 0; font-weight: 400; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.25; color: #666666;">Easy Apply </p></td></tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td> </tr><![endif]--><!--[if (gte mso 9)|(IE)]></table><![endif]--></td></tr></tbody></table></td></tr></tbody></table></a></td></tr></tbody></table></td></tr><tr><td class="pt-3" data-test-id="job-card" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-2 w-6" valign="top" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 48px; padding-right: 16px;" width="48"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3354630129%2F%3FtrackingId%3DfVsX9qVZkMHKyxFPjJeLdQ%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-company_logo%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=OFNM5exXR27WvL8OrcGHb0dT4V3c0W08qt7EbeJJyW4%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3354630129/?trackingId=fVsX9qVZkMHKyxFPjJeLdQ%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-company_logo&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="Zf2CREItbNnEp3YtDp61fuy1sMbFU8HtfOi0lnWxxO7fNsbwaQySF8JRMwb30FCrxszuRqGoV8nTavRVTC6+c3BEF0/3jTNaube1llOLvqNxkB+xAzkyYJr7i0fi3GTkaCP6dEgxRxSW1JNUQtGnJKSSnxqZMewoXz/GviC3Cxc=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><img class="inline-block relative bg-color-entity-ghost-background w-6 h-6 rounded-[2px]" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFmIosLYHpeow/company-logo_100_100/0/1631537182535?e=2147483647&amp;v=beta&amp;t=PSnTgMLgeLZiBpKrDfDGwQcwi5Uzx92RKsIgejcOtx0" alt="IDEMIA" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; display: inline-block; height: 48px; width: 48px; border-radius: 2px; background-color: #eae6df;" width="48" height="48"> </a></td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3354630129%2F%3FtrackingId%3DfVsX9qVZkMHKyxFPjJeLdQ%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-job_posting%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=jiDSS8VPd0RQR2IevoztmKTsymhi2E4XmkAzOTT%2BKEA%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3354630129/?trackingId=fVsX9qVZkMHKyxFPjJeLdQ%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-job_posting&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="S6VYOu/sRZrACs5/xaMhPx5jf7S7F3Hi7rGTNbWoYZ1x13pgovmhRK0EURWv6EsSGy8g2t4uUH3Ws9T97zGJpdTXergsR0Pwtsd/gq8Vu9FzGaBPTObEtmYyVBvkg5Da3Kfdcmp06dVmpu3cHZmvjvJzZ3ESH87IB7mnSvhz7qo=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pb-0.25" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 2px;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3354630129%2F%3FtrackingId%3DfVsX9qVZkMHKyxFPjJeLdQ%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=KP%2BFDA1yEiZ8FdRnDTt37dk5iEi38f4plP%2Bf7xNHwr8%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3354630129/?trackingId=fVsX9qVZkMHKyxFPjJeLdQ%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-jobcard_body&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="Sr099A7WjtxJice+gOyY8xTDESc+z3I9Tvxh8qFYpZUrIMnC6izVDt95tMqz9BqWa6tqGh73uOHsAiAUgtljnbwoPlPjkBZj2lkTBAKBTdEay6UxLU2TIB7r3WL5S83ekR0fUz2TemqkqnfTukdsNlx2SCttowDzEFcf8Zt8BOo=" target="_blank" class="font-bold text-md leading-regular text-color-brand" style="cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; font-size: 16px; font-weight: 600; line-height: 1.25; color: #0a66c2;">Software Development Engineer 1 </a></td></tr><tr><td class="pb-0.5" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 4px;"><p class="text-system-gray-100 text-sm leading-[20px]" style="margin: 0; font-weight: 400; font-size: 14px; line-height: 20px; color: #1f1f1f;">IDEMIA · Jakarta (Hybrid) </p></td></tr><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 0;" align="left"><!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;"><![endif]--><!--[if (gte mso 9)|(IE)]><tr> <td style="padding-top: 4px;"><![endif]--><div class="job-card-flavor__container" style="display: inline-block; padding-top: 4px; padding-right: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-1 w-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 24px; padding-right: 8px;" width="24"><img class="inline-block relative bg-color-entity-ghost-background w-3 h-3 !block" src="https://media-exp1.licdn.com/dms/image/C560BAQEFIZ8GzdwqwQ/company-logo_100_100/0/1589011860582?e=2147483647&amp;v=beta&amp;t=Sttuz7NrLC1SnJdkxkNLviVG70kqoafNHhmaWklxczM" alt="BINUS University" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; height: 24px; width: 24px; background-color: #eae6df; display: block !important;" width="24" height="24"> </td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p class="job-card-flavor__detail" style="margin: 0; font-weight: 400; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.25; color: #666666;">24 school alumni </p></td></tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td> </tr><![endif]--><!--[if (gte mso 9)|(IE)]></table><![endif]--></td></tr></tbody></table></td></tr></tbody></table></a></td></tr></tbody></table></td></tr><tr><td class="pt-3" data-test-id="job-card" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-2 w-6" valign="top" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 48px; padding-right: 16px;" width="48"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3355192958%2F%3FtrackingId%3DPKKp%252BD%252B0eJvu%252BDa8R4LFYA%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-company_logo%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ZdE0MNf7XgyROKVyjAagd7kqPt3C%2ByuYc7OIUFtlsog%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3355192958/?trackingId=PKKp%2BD%2B0eJvu%2BDa8R4LFYA%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-company_logo&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="wdiUVXVvTWo1dBH8gFZyeSdNLmKSB4rew3FSrPhsFbhJPSiqLcGFzVTO7g69haTDtMi/tS4bZEPGqxpuDetwxxm8aReg1uA1R4/X0vl5ob/gPwLMGKCbwCbABq2ZgMbNs46em/fIR6xpqSyehWiu0NPsyFxTZO9+Ud5/olYUhpA=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><img class="inline-block relative bg-color-entity-ghost-background w-6 h-6 rounded-[2px]" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGSceqDCNOufA/company-logo_100_100/0/1625822523315?e=2147483647&amp;v=beta&amp;t=PkjK0kIGFNi5GiJkPsN2V8C857NbkHB5zlvbXXR6Ruk" alt="dentsu international" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; display: inline-block; height: 48px; width: 48px; border-radius: 2px; background-color: #eae6df;" width="48" height="48"> </a></td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3355192958%2F%3FtrackingId%3DPKKp%252BD%252B0eJvu%252BDa8R4LFYA%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-job_posting%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=crUC6UuGX0sNLNoYsN4f4FBcymeQykEs50eADW2%2BTnk%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3355192958/?trackingId=PKKp%2BD%2B0eJvu%2BDa8R4LFYA%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-job_posting&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="GBnxZaoCRhX4QRGfy8/DWbaL1dzACOXEUzTdfR/7YzAxoPYv/5hM5t/p+QWdc0Rumg99C4hAfCBHlkE4t92zxWslqH3gmw1MeDGFyed2Sjz9vUYktS45ZXJ6phlEVoy8ZkRz1oOdErGFuMo71xMsrYu7MStvEecixrovRkcQLCs=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pb-0.25" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 2px;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3355192958%2F%3FtrackingId%3DPKKp%252BD%252B0eJvu%252BDa8R4LFYA%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=MbIeULng1RJGsPUPCsRYkIS%2Fd8h4EXvpfj1YPhWRLtw%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3355192958/?trackingId=PKKp%2BD%2B0eJvu%2BDa8R4LFYA%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-jobcard_body&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="k64rpGb0SAW/M1pvh3Hc1ZYeuY2AKbBFms997jgWE80FY+4LkNnDuqeZsQWYaDQnuYkHdpXoEsBNr9co0LdgfexbTsVSQNnaj0j9tc1qENbr/pi0fluzMVznfu2QngKLXL8M5dIR/8ZKWbibfZxg6P6chRv0/xRU1PCmWPAiZeM=" target="_blank" class="font-bold text-md leading-regular text-color-brand" style="cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; font-size: 16px; font-weight: 600; line-height: 1.25; color: #0a66c2;">Data Engineer Intern </a></td></tr><tr><td class="pb-0.5" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 4px;"><p class="text-system-gray-100 text-sm leading-[20px]" style="margin: 0; font-weight: 400; font-size: 14px; line-height: 20px; color: #1f1f1f;">dentsu international · Jakarta (On-site) </p></td></tr><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 0;" align="left"><!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;"><![endif]--><!--[if (gte mso 9)|(IE)]><tr> <td style="padding-top: 4px;"><![endif]--><div class="job-card-flavor__container" style="display: inline-block; padding-top: 4px; padding-right: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-1 w-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 24px; padding-right: 8px;" width="24"><img class="inline-block relative bg-color-entity-ghost-background w-3 h-3 !block" src="https://media-exp1.licdn.com/dms/image/C560BAQEFIZ8GzdwqwQ/company-logo_100_100/0/1589011860582?e=2147483647&amp;v=beta&amp;t=Sttuz7NrLC1SnJdkxkNLviVG70kqoafNHhmaWklxczM" alt="BINUS University" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; height: 24px; width: 24px; background-color: #eae6df; display: block !important;" width="24" height="24"> </td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p class="job-card-flavor__detail" style="margin: 0; font-weight: 400; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.25; color: #666666;">13 school alumni </p></td></tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td> </tr><![endif]--><!--[if (gte mso 9)|(IE)]></table><![endif]--></td></tr></tbody></table></td></tr></tbody></table></a></td></tr></tbody></table></td></tr><tr><td class="pt-3" data-test-id="job-card" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-2 w-6" valign="top" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 48px; padding-right: 16px;" width="48"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3345857195%2F%3FtrackingId%3DQNLhH6MWsvxjxqobg2zCXw%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-company_logo%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=kpbMeru5zXlZRh9AX63%2BLtCHb9m3kUo9GjEo4CfYsc8%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3345857195/?trackingId=QNLhH6MWsvxjxqobg2zCXw%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-company_logo&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="UB3jz1cGBE23VTgVa9SrQ4W+xBEOh/FsWu0qvVlI+ct5b3+R8Xi0Lwi+mF88uIIDPsaSwUq6xvMSsX7zXw5zMHhsnA5gkuJMsRICTEhXWZghWThiC7RytaD5np1AbBNH0H8uldzQ8SCzIVE4NymkDRcrLPnWXIxcRifT7AUW4Jo=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><img class="inline-block relative bg-color-entity-ghost-background w-6 h-6 rounded-[2px]" src="https://media-exp1.licdn.com/dms/image/C510BAQGwSNEt3KZFhA/company-logo_100_100/0/1524459908084?e=2147483647&amp;v=beta&amp;t=WPlBekUsqUYe9CPEwYtvtKOugeqs_R9unN4dy5IUa4k" alt="Asetku" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; display: inline-block; height: 48px; width: 48px; border-radius: 2px; background-color: #eae6df;" width="48" height="48"> </a></td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3345857195%2F%3FtrackingId%3DQNLhH6MWsvxjxqobg2zCXw%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-job_posting%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=%2B3dEnDOu0fQIrp%2BTRn3Pf9cdNtScOrYatEIJeMOLhYc%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3345857195/?trackingId=QNLhH6MWsvxjxqobg2zCXw%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-job_posting&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="Go5SASyGLvKaSiS4Dbe2ls9oOZ9qX77VYVJBQVyC3seMYskUUP7IUnxu04cnQaQJ7NbhyNoX4dVrR3A6d6I4KJTCvwYAn+gKGMltn7VI9ycLqLU2m2dE/jwvJ+zYcUv2YTg2Rt+h3HsgKeTONELIPtpvwPF/8Ff0nRSOU3r4H0o=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pb-0.25" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 2px;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3345857195%2F%3FtrackingId%3DQNLhH6MWsvxjxqobg2zCXw%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392498921168%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=JjVGxNpgY6ShMYE7D%2B8XdUg6uY4V2mPDgewCSP53cJM%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3345857195/?trackingId=QNLhH6MWsvxjxqobg2zCXw%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-jobcard_body&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="Bj5Zp36t1APO/sxmwTl7iKCRUtVaXN7+a+uF3QYzgl1BulDCLNDZAEq/z6lbvW9alic4+TIVujzln7xhyE8KpwztefgDc48/V8CAG1ElmFhY5nA2I/s5UgfZbHqBCI1QMXbKp2OW/mvEyO7D0elolCuT6uC+xrZv+ksappmusl4=" target="_blank" class="font-bold text-md leading-regular text-color-brand" style="cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; font-size: 16px; font-weight: 600; line-height: 1.25; color: #0a66c2;">Frontend Developer </a></td></tr><tr><td class="pb-0.5" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 4px;"><p class="text-system-gray-100 text-sm leading-[20px]" style="margin: 0; font-weight: 400; font-size: 14px; line-height: 20px; color: #1f1f1f;">Asetku · Jakarta, Indonesia (On-site) </p></td></tr><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 0;" align="left"><!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;"><![endif]--><!--[if (gte mso 9)|(IE)]><tr> <td style="padding-top: 4px;"><![endif]--><div class="job-card-flavor__container" style="display: inline-block; padding-top: 4px; padding-right: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-1 w-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 24px; padding-right: 8px;" width="24"><img class="inline-block relative bg-color-entity-ghost-background w-3 h-3 !block" src="https://media-exp1.licdn.com/dms/image/C560BAQEFIZ8GzdwqwQ/company-logo_100_100/0/1589011860582?e=2147483647&amp;v=beta&amp;t=Sttuz7NrLC1SnJdkxkNLviVG70kqoafNHhmaWklxczM" alt="BINUS University" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; height: 24px; width: 24px; background-color: #eae6df; display: block !important;" width="24" height="24"> </td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p class="job-card-flavor__detail" style="margin: 0; font-weight: 400; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.25; color: #666666;">20 school alumni </p></td></tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td> </tr><![endif]--><!--[if (gte mso 9)|(IE)]><tr> <td style="padding-top: 4px;"><![endif]--><div class="job-card-flavor__container" style="display: inline-block; padding-top: 4px; padding-right: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-1 w-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 24px; padding-right: 8px;" width="24"><img alt="Easy Apply" class="w-3 h-3 rounded-[2px] block" src="https://static-exp1.licdn.com/aero-v1/sc/h/1sk0fbe9amaiat5elvybbtxsm" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block; height: 24px; width: 24px; border-radius: 2px;" width="24" height="24"> </td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p class="job-card-flavor__detail" style="margin: 0; font-weight: 400; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.25; color: #666666;">Easy Apply </p></td></tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td> </tr><![endif]--><!--[if (gte mso 9)|(IE)]></table><![endif]--></td></tr></tbody></table></td></tr></tbody></table></a></td></tr></tbody></table></td></tr><tr><td class="pt-3" data-test-id="job-card" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-2 w-6" valign="top" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 48px; padding-right: 16px;" width="48"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3351140790%2F%3FtrackingId%3DwHpitg3OKaVTdd9FJK0kow%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-company_logo%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=%2BL0Ghkffqu783X9aaUY0iW6hkBPbmZRbpwnIwumvVDE%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3351140790/?trackingId=wHpitg3OKaVTdd9FJK0kow%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-company_logo&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="jNIltKsQQilNDs9VA/J7tYG8BWEw3yJgWfwXPEEHRlkn8KlC5lte8JVhGkkp7HmTmKZzia1YwVGmJUYC4mqPQ30useadjaJpVfrErvuwlaqUvNg1UOFhHZBNBEkzsHTm3A4eM3lW1jFFu2ugcq5YDXeT53mZSTmJOzRNo+PKfCk=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><img class="inline-block relative bg-color-entity-ghost-background w-6 h-6 rounded-[2px]" src="https://media-exp1.licdn.com/dms/image/C510BAQEqZlgvK2DObw/company-logo_100_100/0/1554683981722?e=2147483647&amp;v=beta&amp;t=g_vlAIwDeuApi0f_E9hx8GUZJ8IFTRaPFktEpXGexNA" alt="Cakap" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; display: inline-block; height: 48px; width: 48px; border-radius: 2px; background-color: #eae6df;" width="48" height="48"> </a></td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3351140790%2F%3FtrackingId%3DwHpitg3OKaVTdd9FJK0kow%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-job_posting%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=EdZp5%2FS0B0QCacUmyfUZm965feGWQNQi%2BV9W6mofELo%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3351140790/?trackingId=wHpitg3OKaVTdd9FJK0kow%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-job_posting&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="aRuNozoF/4rst4kFKZOXRo3UiTS2a5JJT9IeH0cvJctt/T2EMi5xDcoLKYP+/NcAlzZrhFp5v+99mwiejVpjouqO2sJWyCQW3bvQgHBfXT5OkKgVwvd9rJoP0MYXZQ8cjPUCp52xNgsisF0meDsYVqx2lqUC2OD8+QXoJQCvZR0=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pb-0.25" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 2px;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3351140790%2F%3FtrackingId%3DwHpitg3OKaVTdd9FJK0kow%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ifAO474FnJtfJXoSDGM4Nl35IqNReWeXMoo%2FIFPFVXQ%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3351140790/?trackingId=wHpitg3OKaVTdd9FJK0kow%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-jobcard_body&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="ePCHCNWj2QBHfgniCg8FiO0XMip99xPdQL+JusMNDln5yTfQKrNJkCqLSab4XHIVX2Z08g2TIcR+4HkjwSz4eoh6T4nkXkmHZC6bgxNnq+rsNLS5wCmxidnpV5dy/JyDZhaOMvW4i2ak9opIrel4mvuHcaC7GfZm3lInIHsjyEE=" target="_blank" class="font-bold text-md leading-regular text-color-brand" style="cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; font-size: 16px; font-weight: 600; line-height: 1.25; color: #0a66c2;">Back End Developer </a></td></tr><tr><td class="pb-0.5" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 4px;"><p class="text-system-gray-100 text-sm leading-[20px]" style="margin: 0; font-weight: 400; font-size: 14px; line-height: 20px; color: #1f1f1f;">Cakap · Jakarta, Indonesia (Hybrid) </p></td></tr><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 0;" align="left"><!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;"><![endif]--><!--[if (gte mso 9)|(IE)]><tr> <td style="padding-top: 4px;"><![endif]--><div class="job-card-flavor__container" style="display: inline-block; padding-top: 4px; padding-right: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-1 w-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 24px; padding-right: 8px;" width="24"><img class="inline-block relative bg-color-entity-ghost-background w-3 h-3 !block" src="https://media-exp1.licdn.com/dms/image/C560BAQEFIZ8GzdwqwQ/company-logo_100_100/0/1589011860582?e=2147483647&amp;v=beta&amp;t=Sttuz7NrLC1SnJdkxkNLviVG70kqoafNHhmaWklxczM" alt="BINUS University" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; height: 24px; width: 24px; background-color: #eae6df; display: block !important;" width="24" height="24"> </td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p class="job-card-flavor__detail" style="margin: 0; font-weight: 400; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.25; color: #666666;">12 school alumni </p></td></tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td> </tr><![endif]--><!--[if (gte mso 9)|(IE)]><tr> <td style="padding-top: 4px;"><![endif]--><div class="job-card-flavor__container" style="display: inline-block; padding-top: 4px; padding-right: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-1 w-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 24px; padding-right: 8px;" width="24"><img alt="Easy Apply" class="w-3 h-3 rounded-[2px] block" src="https://static-exp1.licdn.com/aero-v1/sc/h/1sk0fbe9amaiat5elvybbtxsm" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block; height: 24px; width: 24px; border-radius: 2px;" width="24" height="24"> </td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p class="job-card-flavor__detail" style="margin: 0; font-weight: 400; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.25; color: #666666;">Easy Apply </p></td></tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td> </tr><![endif]--><!--[if (gte mso 9)|(IE)]></table><![endif]--></td></tr></tbody></table></td></tr></tbody></table></a></td></tr></tbody></table></td></tr><tr><td class="pt-3" data-test-id="job-card" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-2 w-6" valign="top" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 48px; padding-right: 16px;" width="48"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3345855103%2F%3FtrackingId%3DlZ52MBuqbIvy63qFZy4FFQ%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-company_logo%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=5U7Mkgg%2BnvpnEUEtdDCw%2BSqk7NWhsyOlvgHEHnQSEAg%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3345855103/?trackingId=lZ52MBuqbIvy63qFZy4FFQ%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-company_logo&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-company_logo-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="zdNd+qxVC/vlds7qxCGv7+/o/BEtNEwzUywCrc8m3D0eFhahIsdJeRfaRd8o1/5YLziY5AIkSbO3UGPOMgsOB7zSrDYWYMmfsPY/RgliaIsCn981r6062d4Mh1irDa84V/W5JZZCyrcbbPN/QVBDhxswtWXz/Acdvm/ecu9IZQE=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><img class="inline-block relative bg-color-entity-ghost-background w-6 h-6 rounded-[2px]" src="https://media-exp1.licdn.com/dms/image/C560BAQG_O2txNs-1UA/company-logo_100_100/0/1651393754266?e=2147483647&amp;v=beta&amp;t=p8p1rp9ZWFb_bLg0zWgzzyX-rpIqSaHbXe0qMAN1O1M" alt="Collega Inti Pratama, PT" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; display: inline-block; height: 48px; width: 48px; border-radius: 2px; background-color: #eae6df;" width="48" height="48"> </a></td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3345855103%2F%3FtrackingId%3DlZ52MBuqbIvy63qFZy4FFQ%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-job_posting%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=LzfZnnGxZ0GwxEbfB2ubNstfFWA4CRwb6exrNL%2FuMMk%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3345855103/?trackingId=lZ52MBuqbIvy63qFZy4FFQ%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-job_posting&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-job_posting-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="fPNIgpjF1eM3ohJg5DCYq4Elud9lVEUZGYBT1iL37rq07nIfeqcNE3mzHI/MBZWCS3n+VuPWr5xzUdIOZxERpLUfy0AquHbOK8D4uRQT+6Y99xlKb1k+xrm4CR76iSKjUzq6uAPVymFdciHgAqEEoOXw2a1Zc8uk3OsgAvT4+iw=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pb-0.25" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 2px;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fview%2F3345855103%2F%3FtrackingId%3DlZ52MBuqbIvy63qFZy4FFQ%253D%253D%26refId%3D0f16bcc0-b4f6-48db-a554-5c7b1cb24c43%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body%26trkEmail%3Deml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=bDgqKDBn2tIkMJEFKGoNJxdR8ibM9TPZy5cSqBljTgE%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/view/3345855103/?trackingId=lZ52MBuqbIvy63qFZy4FFQ%3D%3D&amp;refId=0f16bcc0-b4f6-48db-a554-5c7b1cb24c43&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job_card-0-jobcard_body&amp;trkEmail=eml-email_job_alert_digest_01-job_card-0-jobcard_body-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="u5woRiAZaZQXp0qssINTgoBaDfa1CmR/srBTO12Q1e7UZEhRyVzKmzzYBYoTtLb8py99xt+78cCgPcMvuEr9P+6Amsj6qPc4NDiGfpTXO7JaviIiMlOHJj57FF+myLxWo9BooxQTQrWDXeHX3TMz6KQdlzwg+FP/Hqp/gJwlFdM=" target="_blank" class="font-bold text-md leading-regular text-color-brand" style="cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; font-size: 16px; font-weight: 600; line-height: 1.25; color: #0a66c2;">Java Software Engineer </a></td></tr><tr><td class="pb-0.5" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 4px;"><p class="text-system-gray-100 text-sm leading-[20px]" style="margin: 0; font-weight: 400; font-size: 14px; line-height: 20px; color: #1f1f1f;">Collega Inti Pratama, PT · Jakarta, Indonesia (Hybrid) </p></td></tr><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 0;" align="left"><!--[if (gte mso 9)|(IE)]><table cellpadding="0" cellspacing="0" border="0" role="presentation" style="width: 100%;"><![endif]--><!--[if (gte mso 9)|(IE)]><tr> <td style="padding-top: 4px;"><![endif]--><div class="job-card-flavor__container" style="display: inline-block; padding-top: 4px; padding-right: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-1 w-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 24px; padding-right: 8px;" width="24"><img class="inline-block relative bg-color-entity-ghost-background w-3 h-3 !block" src="https://media-exp1.licdn.com/dms/image/C560BAQEFIZ8GzdwqwQ/company-logo_100_100/0/1589011860582?e=2147483647&amp;v=beta&amp;t=Sttuz7NrLC1SnJdkxkNLviVG70kqoafNHhmaWklxczM" alt="BINUS University" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; height: 24px; width: 24px; background-color: #eae6df; display: block !important;" width="24" height="24"> </td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p class="job-card-flavor__detail" style="margin: 0; font-weight: 400; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.25; color: #666666;">5 school alumni </p></td></tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td> </tr><![endif]--><!--[if (gte mso 9)|(IE)]><tr> <td style="padding-top: 4px;"><![endif]--><div class="job-card-flavor__container" style="display: inline-block; padding-top: 4px; padding-right: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="pr-1 w-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 24px; padding-right: 8px;" width="24"><img alt="Easy Apply" class="w-3 h-3 rounded-[2px] block" src="https://static-exp1.licdn.com/aero-v1/sc/h/1sk0fbe9amaiat5elvybbtxsm" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block; height: 24px; width: 24px; border-radius: 2px;" width="24" height="24"> </td><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><p class="job-card-flavor__detail" style="margin: 0; font-weight: 400; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 1.25; color: #666666;">Easy Apply </p></td></tr></tbody></table></div><!--[if (gte mso 9)|(IE)]></td> </tr><![endif]--><!--[if (gte mso 9)|(IE)]></table><![endif]--></td></tr></tbody></table></td></tr></tbody></table></a></td></tr></tbody></table></td></tr><tr><td class="pt-3 text-left" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 24px; text-align: left;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td valign="middle" align="left" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fsearch%3FgeoId%3D105898461%26f_TPR%3Da1668056025-%26savedSearchId%3D1730415851%26origin%3DJOB_ALERT_EMAIL%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job~alert-0-see~all~jobs%26trkEmail%3Deml-email_job_alert_digest_01-job~alert-0-see~all~jobs-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=dWilWh9qplQqoVOxGLp7zC2hD8YGsVAnJ230sDGuiMw%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/search?geoId=105898461&amp;f_TPR=a1668056025-&amp;savedSearchId=1730415851&amp;origin=JOB_ALERT_EMAIL&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job~alert-0-see~all~jobs&amp;trkEmail=eml-email_job_alert_digest_01-job~alert-0-see~all~jobs-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="nOZrYjPVdW+s4W7G/G7unpcvV3FQcIIV5NuwJ/S+Qu7tSLbQ7acvofMqw0t3xLpyvbOHfPrS2yUmwuRgnXJwb2mwMtMLCU6ep/wEW314zfNAILvGe7OVRIHiPSg0NMimOORpXX+fsCU55RpzWzrnX7prpUMAArthdL5+5N9+tgg=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><table class="font-sans border-separate" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="auto" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: separate; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="btn-md btn-primary border-color-brand button-link leading-regular !min-h-[auto] font-sans !shadow-none border-1 border-solid" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; height: min-content; border-radius: 24px; padding-top: 12px; padding-bottom: 12px; padding-left: 24px; padding-right: 24px; text-align: center; font-size: 16px; font-weight: 600; cursor: pointer; text-decoration-line: none; background-color: #0a66c2; color: #ffffff; border-width: 1px; border-style: solid; border-color: #0a66c2; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; line-height: 1.25; min-height: auto !important; box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000 !important;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Fsearch%3FgeoId%3D105898461%26f_TPR%3Da1668056025-%26savedSearchId%3D1730415851%26origin%3DJOB_ALERT_EMAIL%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job~alert-0-see~all~jobs%26trkEmail%3Deml-email_job_alert_digest_01-job~alert-0-see~all~jobs-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=dWilWh9qplQqoVOxGLp7zC2hD8YGsVAnJ230sDGuiMw%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/search?geoId=105898461&amp;f_TPR=a1668056025-&amp;savedSearchId=1730415851&amp;origin=JOB_ALERT_EMAIL&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job~alert-0-see~all~jobs&amp;trkEmail=eml-email_job_alert_digest_01-job~alert-0-see~all~jobs-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="nOZrYjPVdW+s4W7G/G7unpcvV3FQcIIV5NuwJ/S+Qu7tSLbQ7acvofMqw0t3xLpyvbOHfPrS2yUmwuRgnXJwb2mwMtMLCU6ep/wEW314zfNAILvGe7OVRIHiPSg0NMimOORpXX+fsCU55RpzWzrnX7prpUMAArthdL5+5N9+tgg=" target="_blank" tabindex="-1" aria-hidden="true" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><span class="no-underline text-white" style="color: #ffffff; text-decoration-line: none;">See all jobs </span></a></td></tr></tbody></table></a></td></tr></tbody></table></td></tr><tr data-test-id="premium-upsell"><td class="pt-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td align="left" valign="top" class="w-0" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 0px;" width="0"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fid.linkedin.com%2Fcomm%2Fin%2Fjason-leonardo-4b562a251%3Flipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-job~alert-0-premium~upsell%26trkEmail%3Deml-email_job_alert_digest_01-job~alert-0-premium~upsell-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=l42XHjTDuUvWN6YWMYVpxxLSBinx7AoqxhTJzQz5hr8%3D&amp;reserved=0" originalsrc="https://id.linkedin.com/comm/in/jason-leonardo-4b562a251?lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-job~alert-0-premium~upsell&amp;trkEmail=eml-email_job_alert_digest_01-job~alert-0-premium~upsell-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="LKjbpvy3D+rOgrtAeHlKmZ3cTfDxSZgVUCO7aOiPxTgqLepv3MB3Fo/5CV8oQyuWUv2WbyCCytKF0zV5CU4rX0Y/PCyLROwDCW3KYt93Hn1f3i/bhbit4JLcsO6Mj95GFS7OKfvRECel8cIwR6IPOxkBKAj6S8MOkDOL8U5la6E=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><img class="w-[84px]" alt="Premium icon" src="https://static-exp1.licdn.com/aero-v1/sc/h/40p617it49hlmq3d88bf4wguy" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: 84px;" width="84"> </a></td></tr><tr><td class="text-center" align="center" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center;"><img class="inline-block relative bg-color-entity-ghost-background clip-path-circle-50 rounded-full w-16 h-16" src="https://static-exp1.licdn.com/aero-v1/sc/h/4eby4moebno1i6r34if7lud8o" alt="Jason Leonardo" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; position: relative; display: inline-block; height: 128px; width: 128px; border-radius: 9999px; background-color: #eae6df; clip-path: circle(50%);" width="128" height="128"> </td></tr></tbody></table></td></tr><tr><td class="text-lg leading-regular text-center pt-2" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 16px; text-align: center; font-size: 20px; line-height: 1.25;">See jobs where you’re a top applicant </td></tr><tr><td class="pt-2" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 16px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td valign="middle" align="middle" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fpremium%2Fproducts%2F%3Ffamily%3Djss%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-null-0-null%26trkEmail%3Deml-email_job_alert_digest_01-null-0-null-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=wSjduoCyz%2FbU53UdWjBuhbuoTeDtCwy4qqnYSqdVdao%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/premium/products/?family=jss&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-null-0-null&amp;trkEmail=eml-email_job_alert_digest_01-null-0-null-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="cGdDiHXhKXV/mRiCPySyvVW53PDRYlwPRR34eJvHhUUqRBdK5y+h6TS3DXyzSBpuNutiAnddKByXrepTaRSWf00qVK8a3fuDH2rqx0de7iYcHI0kfGe8jXm5X9hvt1yXlVT0mglmpIqlRq99XaWMv8egk/9Ivj4WN6OM9FxwYsw=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><table class="font-sans border-separate" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="auto" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: separate; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="btn-sm btn-secondary !border-[#424242] button-link leading-regular !min-h-[auto] font-sans !shadow-none border-1 border-solid" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; height: min-content; border-radius: 24px; padding-top: 7px; padding-bottom: 7px; padding-left: 16px; padding-right: 16px; text-align: center; font-size: 14px; font-weight: 600; cursor: pointer; text-decoration-line: none; background-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0.75); border-width: 1px; border-style: solid; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; line-height: 1.25; min-height: auto !important; border-color: #424242 !important; box-shadow: 0 0 #0000, 0 0 #0000, 0 0 #0000 !important;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fpremium%2Fproducts%2F%3Ffamily%3Djss%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-null-0-null%26trkEmail%3Deml-email_job_alert_digest_01-null-0-null-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=wSjduoCyz%2FbU53UdWjBuhbuoTeDtCwy4qqnYSqdVdao%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/premium/products/?family=jss&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-null-0-null&amp;trkEmail=eml-email_job_alert_digest_01-null-0-null-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="cGdDiHXhKXV/mRiCPySyvVW53PDRYlwPRR34eJvHhUUqRBdK5y+h6TS3DXyzSBpuNutiAnddKByXrepTaRSWf00qVK8a3fuDH2rqx0de7iYcHI0kfGe8jXm5X9hvt1yXlVT0mglmpIqlRq99XaWMv8egk/9Ivj4WN6OM9FxwYsw=" target="_blank" tabindex="-1" aria-hidden="true" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><span class="no-underline !text-[#424242]" style="text-decoration-line: none; color: #424242 !important;">Try Premium for free </span></a></td></tr></tbody></table></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></td></tr><tr><td class="bg-color-background-canvas p-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #f3f2f0; padding: 24px;"><table class="font-sans" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;"><tbody><tr><td class="text-center pb-2" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 16px; text-align: center;"><h2 class="text-lg" style="margin: 0; font-weight: 500; font-size: 20px;">Never miss an update with the LinkedIn app</h2></td></tr><tr><td class="text-center" data-test-id="footer-app-store-icon" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Flinkedin%2Fid288429040%3Fpt%3D10746%26ct%3Dst_appsite_flagship%26mt%3D8&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499077405%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=%2BAR%2ByQLnvCV%2FCcY%2Brjj0NakX%2BpFio%2BnNSVLebJuCKI8%3D&amp;reserved=0" originalsrc="https://itunes.apple.com/us/app/linkedin/id288429040?pt=10746&amp;ct=st_appsite_flagship&amp;mt=8" shash="s9bXdR/hwQFMGary+Qqw+Bgfu1U+a0v33MQIbUS3/oFui0pPNxMthEcsHLhekZJIYu7s/BwSbDKvnyEeV481lzR0tao4N9PIvRUlU1Dgsb2Wohu6zoichYAoro1bH3ftUUIHiqkGc604gqtF+69cE9hsm+bV0BSIrxpqr/NeDgY=" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><img alt="Download on the App Store" src="https://static-exp1.licdn.com/aero-v1/sc/h/76yzkd0h5kiv27lrd4yaenylk" class="h-[40px] w-[120px] pr-1" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; height: 40px; width: 120px; padding-right: 8px;" width="120" height="40"> </a><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.linkedin.android%26referrer%3Dst_appsite_flagship&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499233644%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=fNA26BsBioNASA0JD5zuXXOqc8Jwlj6VzHEZX5FKloM%3D&amp;reserved=0" originalsrc="https://play.google.com/store/apps/details?id=com.linkedin.android&amp;referrer=st_appsite_flagship" shash="warLlMln4TQWytW72x/5XakvVTW6hkSV64kmlzdMdbdC/5/CSnBmc/YZ5ZddjWzw+bHRcxAytjIVUWFxxYBIzIKt0xOR5zml53yccOOSCgPy5Q+Vg50M98oetNuS95Jg4SBa0ucdqzZoh9kSXJksYjwZbN4Q3hc288VWkIUyERg=" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><img alt="Get it on Google Play" src="https://static-exp1.licdn.com/aero-v1/sc/h/142qudwblp58zwmc9vkqfplug" class="h-[40px] w-[134px]" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; height: 40px; width: 134px;" width="134" height="40"> </a></td></tr><tr><td class="py-2" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-top: 16px; padding-bottom: 16px;"><hr class="border-none bg-[#e0dfdd] h-[1px]" style="height: 1px; border-style: none; background-color: #e0dfdd;"></td></tr></tbody></table><table class="font-sans text-xs" role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif; font-size: 12px;"><tbody><tr><td class="pb-1 m-0" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0px; padding-bottom: 8px;">This email was intended for Jason Leonardo (Student at BINUS University) </td></tr><tr><td class="pb-1 m-0" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0px; padding-bottom: 8px;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fhelp%2Flinkedin%2Fanswer%2F4788%3Flang%3Den%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-SecurityHelp-0-footerglimmer%26trkEmail%3Deml-email_job_alert_digest_01-SecurityHelp-0-footerglimmer-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499233644%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=HpqcdDMf9sAt7Q9V5fItayxc0vFbxu%2FIZVqHyzEmxVc%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/help/linkedin/answer/4788?lang=en&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-SecurityHelp-0-footerglimmer&amp;trkEmail=eml-email_job_alert_digest_01-SecurityHelp-0-footerglimmer-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="JOJzTA1NqkcFHRK5r1HDXgAVCa7QSsljQwWyqMJKxrYQs1sGgSTceeU8PtsTquSg587eVzfibWEd1JsJhySKA8xQCLZtiA4Fv56g3ZByTbzyuEGHQsbhDjHc9kFwdesloi+J8lj6QzPkdx1SQ3XWscK/+qN7YKnLVRM8xDuPbZM=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;">Learn why we included this.</a> </td></tr><tr><td class="pb-1 m-0" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0px; padding-bottom: 8px;">You are receiving Job Alert emails.</td></tr><tr><td class="pb-1 m-0" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: 0px; padding-bottom: 8px;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Falerts%3Flipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-null-0-null%26trkEmail%3Deml-email_job_alert_digest_01-null-0-null-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499233644%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ptFEk9zdRnQ6svkzkrJsvgJozKyyDKRIkqcAYoDqJZg%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/alerts?lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-null-0-null&amp;trkEmail=eml-email_job_alert_digest_01-null-0-null-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="NCc6b/t1BULuit7b6fTzwMWBLYdA+tvkgdU4wE+CYDM8l7ZI+PnMDrEYFqPnhdLM2An3zqQER1iznOsPBaz5jDg2RFNWGPfFwXVsdziqcgmZdC9JmJx7TkHVPQ+5SXeRkq28Gpvy+1QAcntj7SD+IKvMGIPpDQcFDdFjlAt/r/s=" target="_blank" trackingmodule="footer" trackingsuffix="manage_alert_mercado" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;">Manage job alerts </a>&nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Fjobs%2Falerts%3Flipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-unsubscribe-0-footerGlimmer%26trkEmail%3Deml-email_job_alert_digest_01-unsubscribe-0-footerGlimmer-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e%26loid%3DAQEAkldDl2CVXAAAAYRlCaOAWR_JOCgUlWKuFBw8A8lT8XdOEoUHQgA3NmyI0uwuUG-X2Jk-E9XJ5MxtU9fb6L7ywnmOryUv8XxEWgTiDd-y74nlsSM0p46YhSTorRae&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499233644%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=01N%2Fc1gfQQiYneUfseZJD5JHRQBtb9hi46wt%2BpwyJj4%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/jobs/alerts?lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-unsubscribe-0-footerGlimmer&amp;trkEmail=eml-email_job_alert_digest_01-unsubscribe-0-footerGlimmer-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e&amp;loid=AQEAkldDl2CVXAAAAYRlCaOAWR_JOCgUlWKuFBw8A8lT8XdOEoUHQgA3NmyI0uwuUG-X2Jk-E9XJ5MxtU9fb6L7ywnmOryUv8XxEWgTiDd-y74nlsSM0p46YhSTorRae" shash="cCvAeyOyWHjmAe/AXFmG5dfTDzwo8LIpJfDtUNxDqZ4+slE87ybztXjqAZUM43S0QBQCQIdS0ImPoIgxQE+bewHuYhDBdsbh1w1k/WseaP2AnIBNFplnQ6K6QXWK67XgpJyeYSEGrdkdNkG2pdGnNufWdh/9nZg37jVAxnMkZk0=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;">Unsubscribe</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fhelp%2Flinkedin%2Fanswer%2F67%3Flang%3Den%26lipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-help-0-footerglimmer%26trkEmail%3Deml-email_job_alert_digest_01-help-0-footerglimmer-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499233644%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=fKsSa9YExC0ffKE8CnGEor%2FwVgJpvhKR3SOhQdPbFx4%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/help/linkedin/answer/67?lang=en&amp;lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-help-0-footerglimmer&amp;trkEmail=eml-email_job_alert_digest_01-help-0-footerglimmer-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="KjrpOaZTMj/XngvdTziW98lctlzONzvVaBmMdFFsVSUN4hvU49jN3uyoqefjMw1vlwO3+Y1EK6jjs48EWesckDnGgusEHWzaRq4nraJyIhQM4jitn92AkwX33hrBPhzaleuDyLKozVi+7zJq6EkZ+R6UKYcrXAAuCcUxZgcIpgA=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;">Help</a> </td></tr><tr><td class="pb-1" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom: 8px;"><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fcomm%2Ffeed%2F%3Flipi%3DFNjgUOoeTACW%252FIkW1gagyA%253D%253D%26midToken%3DAQGX9C8K2OJlwg%26midSig%3D39ChYSgME6eWw1%26trk%3Deml-email_job_alert_digest_01-footer-0-logoGlimmer%26trkEmail%3Deml-email_job_alert_digest_01-footer-0-logoGlimmer-null-h9d9vt~lac0xsht~6e-null-null%26eid%3Dh9d9vt-lac0xsht-6e&amp;data=05%7C01%7Cjason.sutioso%40binus.ac.id%7C92fc69e91bce4016b77608dac3a0c20b%7C3485b96382ba4a6f810fb5cc226ff898%7C0%7C0%7C638037392499233644%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=qgiBHwCB2ZbHf71%2Fv7o2aZtDEFeEilLrG%2BidBMYrCso%3D&amp;reserved=0" originalsrc="https://www.linkedin.com/comm/feed/?lipi=FNjgUOoeTACW%2FIkW1gagyA%3D%3D&amp;midToken=AQGX9C8K2OJlwg&amp;midSig=39ChYSgME6eWw1&amp;trk=eml-email_job_alert_digest_01-footer-0-logoGlimmer&amp;trkEmail=eml-email_job_alert_digest_01-footer-0-logoGlimmer-null-h9d9vt~lac0xsht~6e-null-null&amp;eid=h9d9vt-lac0xsht-6e" shash="eK1cLcT2rch7VNl0MC6pPCFcOjO508wCm1dQ1uJJMyfjsfOkWudeY2GwZxNcr6KTBQ8Lcsh9gFvKkDH2MzZuJDVack5mc9LDc4S+x3mV1OjhKjOBJUuidPTaa3QypCe04ezbV4h4VDMU4GVmh7r6gMGK87e5i5cCT5Sz0ltWaPk=" target="_blank" style="color: #0a66c2; cursor: pointer; display: inline-block; text-decoration: none; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%;"><img src="https://static-exp1.licdn.com/aero-v1/sc/h/9ehe6n39fa07dc5edzv0rla4e" alt="LinkedIn" class="block h-[14px] w-[56px] image-rendering-crisp" style="outline: none; text-decoration: none; image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: -webkit-optimize-contrast; image-rendering: crisp-edges; -ms-interpolation-mode: nearest-neighbor; display: block; height: 14px; width: 56px;" width="56" height="14"> </a></td></tr><tr><td data-test-copyright-text="" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -moz-text-size-adjust: 100%; text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">© 2022 LinkedIn Corporation, 1‌000 West Maude Avenue, Sunnyvale, CA 94085. <span data-test-trademarks-text="">LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn. </span></td></tr></tbody></table></td></tr></tbody></table><img alt="" role="presentation" src="https://www.linkedin.com/emimp/ip_YURsa09YWjBMV3hoWXpCNGMyaDBMVFpsOlpXMWhhV3hmYW05aVgyRnNaWEowWDJScFoyVnpkRjh3TVE9PTo=.gif" style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; width: 1px; height: 1px;" width="1" height="1"> </body></html>
