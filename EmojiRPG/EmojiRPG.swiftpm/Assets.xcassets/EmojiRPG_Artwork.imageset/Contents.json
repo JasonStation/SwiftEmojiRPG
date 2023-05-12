@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "EmojiRPG_Artwork.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
