@@ -9,4 +9,4 @@ Explore a 2D world: The world is displayed with emojis and the player can explor
 
 Experience a story: Comic pages are available to read before the game starts and when the player defeats the final boss.
 
-This game is my WWDC 2023 Swift Student Challenge Submission!
+This game is my WWDC 2023 Swift Student Challenge Submission.
