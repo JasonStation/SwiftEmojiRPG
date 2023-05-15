@@ -1,5 +1,5 @@
 # SwiftEmojiRPG
-A simple text-based RPG game using SwiftUI with emojis!
+A text-based RPG game using SwiftUI with emojis!
 
 Fight enemies: This game uses a turn-based combat system to battle enemies. Players can use items to help with fighting enemies.
 
