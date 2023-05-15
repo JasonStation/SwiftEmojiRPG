@@ -9,6 +9,6 @@ Explore a 2D world: The world is displayed with emojis and the player can explor
 
 Experience a story: Comic pages are available to read before the game starts and when the player defeats the final boss.
 
-This app was made using Swift Playgrounds and meant to be run on iPad (can be run in landscape and portrait orientations).
+This app was made using Swift Playgrounds and meant to be run on iPad (any model). This game can be run in landscape and portrait orientations.
 
 This game is my WWDC 2023 Swift Student Challenge Submission.
