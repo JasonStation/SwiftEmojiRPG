@@ -7,7 +7,7 @@ Get stronger: Players can buy armor and weapons to make themselves stronger and 
 
 Explore a 2D world: The world is displayed with emojis and the player can explore and interact with different objects represented by emojis!
 
-Experience a story: Comic pages are available to read before the game starts and when the player defeats the final boss.
+Experience a story: Comic pages are available to read before the game starts and when the player defeats the final boss!
 
 This app was made using Swift Playgrounds and meant to be run on iPad (any model). This game can be run in landscape and portrait orientations.
 
