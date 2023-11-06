@@ -17,6 +17,7 @@ A text-based RPG game using SwiftUI with emojis!
 
 # About the Game
 
+[I am aware of the horrible, messy code. I was a newbie at that time. My code architecture has improved a lot since then!]
 
 Fight enemies: This game uses a turn-based combat system to battle enemies. Players can use items to help with fighting enemies.
 
